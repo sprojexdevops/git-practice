@@ -44,4 +44,12 @@ or
 
 ### add, commit and push in a single line
 
+> _for a single file_
+
+    git add <filename> ; git commit -m "message why it is being committed"; git push origin main
+
+or
+
+> _for all changes_
+
     git add . ; git commit -m "message why it is being committed"; git push origin main
