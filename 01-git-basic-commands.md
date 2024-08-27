@@ -40,3 +40,8 @@ or
 > _if any specific branch_
 
     git push origin <branch name>
+
+
+### add, commit and push in a single line
+
+    git add . ; git commit -m "message why it is being committed"; git push origin main
